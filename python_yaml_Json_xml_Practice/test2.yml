@@ -1,0 +1,12 @@
+---
+
+champ_house:
+  Address: Forrest_Hill
+  Array_1:
+  - tv:
+  - dishwasher:
+keiko_house:
+  Address: Japan
+  Array_2:
+  - tv:
+  - dishwater:

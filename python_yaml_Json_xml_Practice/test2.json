@@ -1,0 +1,16 @@
+{
+"champ_house": {
+  "Address":{
+    "Forrest_Hill":[
+      {"tv": "Samsung","dishwasher": "Bosch"}
+]
+}},
+"keiko_house": {
+  "Address": {
+    "Japan": [
+      {"tv": "Fujitsu", "dishwasher": "Konica Minolta"}
+    ]
+  }
+     }
+ 
+}

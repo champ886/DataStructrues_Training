@@ -1,0 +1,13 @@
+{
+
+    "device": "cisco",
+    "version": "V-ios",
+    "interface_details": [
+        
+            {"interface_name": "Gigabitethernet 0/1"},
+            {"ip_address": "192.168.40.50"},
+            {"netmask": "255.255.255.0"},
+            {"Default Gateway": "192.168.40.1"}
+]
+
+}

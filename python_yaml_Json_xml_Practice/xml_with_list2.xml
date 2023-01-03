@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <json>rigid</json>
+    <json>better for data interchange</json>
+    <yaml>slim and flexible</yaml>
+    <yaml>better for configuration</yaml>
+    <object>
+        <key>value</key>
+        <array>
+            <null_value/>
+        </array>
+        <list>
+            <boolean>true</boolean>
+        </list>
+        <array>
+            <boolean>true</boolean>
+        </array>
+        <array>
+            <integer>1</integer>
+        </array>
+        <array>
+            <alias>aliases are like variable</alias>
+        </array>
+    </object>
+    <paragraph>Blank lines denote
+    paragrapgh breaks
+    </paragraph>
+        <content>Or we
+        can auto
+        convert line breaks
+        to save space</content>
+        <alias>
+            <bar>baz</bar>
+        </alias>
+        <alias_reuse>
+            <bar>baz</bar>
+        </alias_reuse>
+</root>
